@@ -1,0 +1,4 @@
+
+
+    The Grameen Bank model works as follows: A bank is set up in a village with a field officer and some qualified bank workers. It will support 15 to 20 villages—the field officer will already have researched these villages as prospective clientele. Groups of five people are created. Two of the members are eligible to receive a loan. The two members are monitored for a one-month period, and the credibility of the group will then be based on the repayment performance of the two individuals. If the loans are paid back within the 50-week period, then 
+the other members now qualify to receive a loan.
